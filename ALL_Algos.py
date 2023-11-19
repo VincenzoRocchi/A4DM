@@ -17,7 +17,7 @@ def SelectionSort(A):
     for i in range(len(A)):
         min_elem_index = i
         
-        for j in range(1,len(A)):
+        for j in range(i+1,len(A)):
             if A[j] < A[min_elem_index]:
                 min_elem = j
         A[i], A[min_elem_index] = A[min_elem_index],A[i]
