@@ -8,3 +8,8 @@
 
 ### Lower bound proof for comparison based algorithms
 ![lower bound for sorting by comparison](https://github.com/VincenzoRocchi/A4DS/blob/main/Images/Lower_bound_comparisons.png)
+
+### Differences between the running time of priority queue operations (Insertion, deletion and minimum/maximum) on Heap and BT
+
+![Heap](https://github.com/VincenzoRocchi/A4DS/blob/main/Images/Lower_bound_comparisons.png)
+![Binary tree](https://github.com/VincenzoRocchi/A4DS/blob/main/Images/Lower_bound_comparisons.png)
